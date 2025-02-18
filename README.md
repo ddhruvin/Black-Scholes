@@ -1,4 +1,7 @@
 # Black-Scholes
+SS:
+![image](https://github.com/user-attachments/assets/029475d1-659d-4cc2-af2b-065eafd1fd45)
+
 Option Pricing Model
 =======
 # Black-Scholes Pricing Model
